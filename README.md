@@ -10,7 +10,7 @@ Key Functionalities
 Dynamic Memory Management: Efficiently allocates memory for the game board and robot structures, demonstrating robust handling of resources.
 Random Initialization: Supports various initialization types (random, checkerboard, all-white) for the game board to enhance variability in simulations.
 Interactive Movement: Robots move in predefined directions and respond to the colors of the tiles, showcasing basic principles of robotics and automation.
-Modular Design: The code is structured to promote readability and maintainability, with clear separation of concerns across functions.
+Modular Design: The code is structured to promote readability and maintainability, with clear separation of concerns across functions..
 Features
 
 Error handling and input validation to ensure robustness.
